@@ -1,0 +1,19 @@
+Tipo de datos en una variable: Describe el contenido del valor que tiene la variable
+
+Primitivos: Es una informacion que no es un objecto y son inmutables
+
+Hay 6 tipos de datos primitivos en JS
+*Boolean: true/fasle
+*Null: Sin valor en lo absoluto
+*Undefined: Una variable declarada que aun no se le asigna un valor
+*Number: integers, floats, etc
+*String: Una cadena de caracteres, ej: palabras, nombres de personas, etc.
+*Symbol: Es un valor unico que no es igual a ningun otro valor
+
+
+
+Palabras Reservadas: Son palabras que tienen un uso especifico
+
+
+Arreglos: Son un objecto parecido a una lista de informacion, que contienen un grupo de elementos.
+*Usualmente, la informacion dentro del arreglo es del mismo tipo de dato.
